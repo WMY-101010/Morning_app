@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>date</key>
+	<string></string>
+	<key>city</key>
+	<string></string>
+	<key>day1</key>
+	<dict>
+		<key>tmp_max</key>
+		<string></string>
+		<key>tmp_min</key>
+		<string></string>
+		<key>cond</key>
+		<string></string>
+	</dict>
+	<key>day2</key>
+	<dict>
+		<key>tmp_max</key>
+		<string></string>
+		<key>tmp_min</key>
+		<string></string>
+		<key>cond</key>
+		<string></string>
+	</dict>
+	<key>day3</key>
+	<dict>
+		<key>tmp_max</key>
+		<string></string>
+		<key>tmp_min</key>
+		<string></string>
+		<key>cond</key>
+		<string></string>
+	</dict>
+	<key>day4</key>
+	<dict>
+		<key>tmp_max</key>
+		<string></string>
+		<key>tmp_min</key>
+		<string></string>
+		<key>cond</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
